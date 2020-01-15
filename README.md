@@ -1,0 +1,2 @@
+# pytorch_parallel_demo
+pytorch使用多gpu的demo
